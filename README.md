@@ -1,2 +1,15 @@
-# HorizonTechX_AI_FAQ_Chatbot
-An AI Powered FAQ Chatbot built using python to answer user questions about Ai and Data Science
+# FAQ Chatbot
+
+A simple NLP-based FAQ chatbot implemented in Python.
+
+## Run
+
+```bash
+python chatbot.py
+```
+
+## Test
+
+```bash
+python -m unittest -v
+```
